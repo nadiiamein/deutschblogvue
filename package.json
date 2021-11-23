@@ -10,6 +10,7 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
+    "vue-quill": "^1.5.1",
     "vue-router": "^3.5.3",
     "vue2-editor": "^2.10.3",
     "vuex": "^3.6.2"
